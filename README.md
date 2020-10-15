@@ -1,1 +1,1 @@
-# Görüntü İşleme dersinden yazılan kodlar eklenecektir.
+# Görüntü İşleme dersinde yazılan kodlar eklenecektir.
