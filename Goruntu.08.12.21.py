@@ -21,7 +21,7 @@ X = X/255
 
 img1 = X[1,:].reshape(28,28)
 
-plt.imshow(img_1,cmap='gray')
+plt.imshow(img1,cmap='gray')
 plt.show()
 
 #y[1]
